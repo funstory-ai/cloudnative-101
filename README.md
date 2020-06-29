@@ -1,6 +1,8 @@
 # cloudnative-101
 The repo is for Cloud Native 101 series training
 
+[**中文**](./README_ZH.md) ｜ **English**
+
 ## Install Vagrant and VirtualBox
 
 The vagrant and virtualbox provide a standard environment for experiments in our lecture of Cloud Native 101.
@@ -13,10 +15,14 @@ The vagrant and virtualbox provide a standard environment for experiments in our
 
 ## Validation
 
+First, clone this repo to your computer.
+```bash
+git clone https://github.com/funstory-ai/cloudnative-101.git
+```
+
 Open a terminal and input the following commands to validate if it has been installed properly.
 
-![](screenshot-1.png)
-
+![](./static/screenshot-1.png)
 
 ## Here We Go
 
@@ -26,14 +32,13 @@ vagrant up # It may take a while because it need to download the virtual machine
 vagrant ssh
 ```
 
-![](screenshot-2.png)
+![](./static/screenshot-2.png)
 
 You will enter into an new shell and just like this
-
 
 Then
 
 ```bash
 exit
-vagrant destory
+vagrant destroy
 ```
