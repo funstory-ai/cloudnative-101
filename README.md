@@ -15,14 +15,18 @@ The vagrant and virtualbox provide a standard environment for experiments in our
 
 Open a terminal and input the following commands to validate if it has been installed properly.
 
+![](screenshot-1.png)
+
 
 ## Here We Go
 
 ```bash
-cd cloudnative-101/box
-vagrant up
+cd cloudnative-101/box 
+vagrant up # It may take a while because it need to download the virtual machine image from AliyunOSS
 vagrant ssh
 ```
+
+![](screenshot-2.png)
 
 You will enter into an new shell and just like this
 
