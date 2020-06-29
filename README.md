@@ -22,7 +22,7 @@ git clone https://github.com/funstory-ai/cloudnative-101.git
 
 Open a terminal and input the following commands to validate if it has been installed properly.
 
-![](./static/screenshot-1.png)
+![gif1](https://raw.githubusercontent.com/funstory-ai/cloudnative-101/master/static/render1.gif)
 
 ## Here We Go
 
@@ -32,7 +32,7 @@ vagrant up # It may take a while because it need to download the virtual machine
 vagrant ssh
 ```
 
-![](./static/screenshot-2.png)
+![gif2](https://raw.githubusercontent.com/funstory-ai/cloudnative-101/master/static/render2.gif)
 
 You will enter into an new shell and just like this
 
