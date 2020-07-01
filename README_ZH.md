@@ -1,6 +1,8 @@
 # cloudnative-101
 Cloud Native 101 训练指北
 
+相关命令集合在[https://gist.github.com/aseaday/a0972045222ccf0c3976f827f56001a1](https://gist.github.com/aseaday/a0972045222ccf0c3976f827f56001a1)
+
 **中文** ｜ [**English**](./README.md)
 
 
@@ -41,3 +43,7 @@ vagrant ssh
 exit
 vagrant destroy
 ```
+
+## Parts
+
+- [x] Part 1: Docker是什么以及环境隔离原理。

@@ -43,3 +43,7 @@ Then
 exit
 vagrant destroy
 ```
+
+## Parts
+
+- [x] Part 1: What is Docker & What docker did?
