@@ -1,5 +1,6 @@
 # cloudnative-101
 The repo is for Cloud Native 101 series training
+scripts gits: https://gist.github.com/aseaday/a0972045222ccf0c3976f827f56001a1
 
 [**中文**](./README_ZH.md) ｜ **English**
 
